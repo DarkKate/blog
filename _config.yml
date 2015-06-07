@@ -1,12 +1,10 @@
-markdown: rdiscount
+markdown: kramdown
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 name: "the same blog"
-markdown: rdiscount
 
 author: "darkkate"
-atom-baseurl: "/blog"
-baseurl: "/blog"
+atom-baseurl: "blog.darkkate.com"
 
 navigations:
   - title: Archive
