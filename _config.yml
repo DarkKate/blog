@@ -5,7 +5,8 @@ name: "the same blog"
 markdown: rdiscount
 
 author: "darkkate"
-atom-baseurl: "http://darkkate.github.com/blog"
+atom-baseurl: "/blog"
+baseurl: "/blog"
 
 navigations:
   - title: Archive
