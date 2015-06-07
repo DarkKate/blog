@@ -3,8 +3,6 @@ layout: post
 title: "自行车卖掉了"
 categories: nonsense 
 tags: feeling
-- 
-
 
 ---
 从2011年11月13日到2014年5月24日。
