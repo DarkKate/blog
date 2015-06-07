@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-05-20 
+comments: false
 categories: jekyll update
 ---
 
