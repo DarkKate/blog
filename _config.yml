@@ -1,4 +1,4 @@
-markdown: kramdown
+markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 name: "the same blog"
