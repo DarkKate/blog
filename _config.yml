@@ -1,6 +1,6 @@
-markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
+markdown: rdiscount
 name: "the same blog"
 
 author: "darkkate"
