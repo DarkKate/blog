@@ -3,7 +3,7 @@ layout: post
 title: "LaTeX Tips"
 date: 2015-05-05
 comments: true
-categories: 学习 LC
+categories: 学习
 tag: 
   - LaTeX
 ---
