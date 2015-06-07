@@ -46,41 +46,41 @@ tags:
 - Fences 2
 - 锐捷
 - 生产力
-	- Photoshop
-	- Evernote
-	- Vim
-	- matlab
-	- Git, Github
-	- Keil uVision 4
-	- NoteExpress 2
-	- CTeX
-	- MS Office
-	- Octopress
+  - Photoshop
+  - Evernote
+  - Vim
+  - matlab
+  - Git, Github
+  - Keil uVision 4
+  - NoteExpress 2
+  - CTeX
+  - MS Office
+  - Octopress
 
 - General Tools
-	- uTorrent
-	- Chrome
-	- 完美解码
-	- 迅雷7
-	- 有道
-	- iTunes
-	- 百度云
-	- Dropbox
-	- 网易云音乐
-	- Picasa 3
-	- PowerDVD
-	- goagent
-	- Everthing
-	- Adobe Reader
-	- DAEMON
-	- 7-Zip
+  - uTorrent
+  - Chrome
+  - 完美解码
+  - 迅雷7
+  - 有道
+  - iTunes
+  - 百度云
+  - Dropbox
+  - 网易云音乐
+  - Picasa 3
+  - PowerDVD
+  - goagent
+  - Everthing
+  - Adobe Reader
+  - DAEMON
+  - 7-Zip
 
 - IM
-	- QQ
+  - QQ
 
 - Games
-	- 炉石传说
-	- 文明 5
+  - 炉石传说
+  - 文明 5
 
 他们其实就在原来的机械硬盘里，只不过都是黑户，是否兼容 Win 8 也是一个只有天知道的问题，我真是手贱装 Win 8。
 
