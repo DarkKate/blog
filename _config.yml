@@ -1,7 +1,7 @@
 highlighter: pygments
-permalink: /:year/:month/:day/:title.html
-markdown: rdiscount
-name: "the same blog"
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+name: "荒芜之地"
 
 author: "darkkate"
 atom-baseurl: "blog.darkkate.com"
