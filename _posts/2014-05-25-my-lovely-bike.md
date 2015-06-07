@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "自行车卖掉了"
+comments: ture
 categories: nonsense 
 tags: feeling
 
