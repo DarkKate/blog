@@ -3,7 +3,7 @@ layout: post
 title: "我的豆瓣秀"
 date: 2015-05-13
 comments: true
-categories: 折腾 LC
+categories: 折腾
 tag: 
   - douban
 ---

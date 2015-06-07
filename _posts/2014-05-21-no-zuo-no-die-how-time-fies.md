@@ -2,7 +2,7 @@
 layout: post
 title:  "No Zuo No Die How Time Fies!"
 date:   2014-05-21
-categories: 折腾 LC
+categories: 折腾
 tags: 
      - 购物
      - update
