@@ -8,7 +8,7 @@ atom-baseurl: "blog.darkkate.com"
 
 navigations:
   - title: Archive
-    class: fa fa-archive
+    class: fa fa-inbox
     href: /archive
   - title: Categories
     class: fa fa-th-list
