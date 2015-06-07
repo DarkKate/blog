@@ -9,14 +9,17 @@ atom-baseurl: "blog.darkkate.com"
 navigations:
   - title: Archive
     class: fa fa-archive
-    href: /archive.html
+    href: /archive
+  - title: Categories
+    class: fa fa-th-list
+    href: /categories
   - title: Tags
     class: fa fa-tags
-    href: /tags.html
+    href: /tags
   - title: About
     class: fa fa-user
-    href: /about.html
-  - title: Gallery
+    href: /about
+  - title: Instagram
     class: fa fa-instagram
     href: https://instagram.com/hidarkkate/
   - title: Subscribe
