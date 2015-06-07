@@ -1,16 +1,15 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "rusty shutter"
+name: "the same blog"
 markdown: rdiscount
 
-author: "wayne"
-atom-baseurl: "http://lhzhang.com"
-disqus: "gopherwood"
+author: "darkkate"
+atom-baseurl: "http://blog.darkkate.com"
 
 navigations:
   - title: Archive
-    class: fa fa-list-ul
+    class: fa fa-archive
     href: /archive.html
   - title: Tags
     class: fa fa-tags
@@ -19,8 +18,8 @@ navigations:
     class: fa fa-user
     href: /about.html
   - title: Gallery
-    class: fa fa-film
-    href: http://foto.lhzhang.com
+    class: fa fa-instagram
+    href: https://instagram.com/hidarkkate/
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
