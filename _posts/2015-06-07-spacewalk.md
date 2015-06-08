@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amazing"
+title: "Spacewalk"
 date: 2015-06-07
 comments: true
 categories: Photograph
@@ -10,12 +10,10 @@ tag:
   - Pics
 ---
 
-![](/assets/images/IMG_nasa1.JPG)
+[![](/assets/images/IMG_nasa1.JPG)](https://instagram.com/p/3epnc5oaAt/?taken-by=nasa)
 
 In this Feb. 7, 1984 photograph taken by his fellow crewmembers aboard the Earth-orbiting Space Shuttle Challenger on the STS-41B mission, NASA astronaut Bruce McCandless II approaches his maximum distance from the vehicle. McCandless became the first astronaut to maneuver about in space untethered, during this first "field" tryout of a nitrogen-propelled, hand-controlled backpack device called the Manned Maneuvering Unit.
 
 For 50 years, NASA has been "suiting up" for spacewalking. The first American to conduct a spacewalk, astronaut Edward H. White II, floated into the vastness of space on the Gemini IV mission on June 3, 1965. 
 
 Image Credit: NASA
-
-[源地址](https://instagram.com/p/3epnc5oaAt/?taken-by=nasa)
