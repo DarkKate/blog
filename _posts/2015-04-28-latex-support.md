@@ -8,7 +8,7 @@ tag:
   - LaTeX 
   - kramdown
 ---
-[MathJax][5] 实在是一个很好的网页LaTeX解决方案。
+[MathJax][5] 实在是一个很好的网页 $$\LaTeX$$ 解决方案。
 
 ## 鸣谢
 
@@ -16,7 +16,7 @@ tag:
 
 1. [Jekyll中使用MathJax][1]
 
-2. [Octopress中使用Latex写数学公式][2]
+2. [Octopress中使用 $$\LaTeX$$ 写数学公式][2]
 
 ## 设置
 
@@ -28,7 +28,7 @@ tag:
 markdown: kramdown
 ~~~
 
-本地使用jekyll时可能需要额外安装 kramdown:
+本地使用 Jekyll 时可能需要额外安装 kramdown:
 
 ~~~
 gem install kramdown
@@ -50,18 +50,28 @@ gem install kramdown
 
 一句话：用两个美元符号`$$`在前后把公式包起来就行了。
 
-这里需要注意与 LaTeX 不同的是，这里不论行内还是行间都是`$$`。
+这里需要注意与 $$\LaTeX$$ 不同的是，这里不论行内还是行间都是`$$`。
 
 ## 示例：
 
-~~~
+~~~ latex
 $$E=mc^2$$ is a inline formula.
 ~~~
 
 $$E=mc^2$$ is a inline formula.
 
+### Schrödinger 方程
+~~~ latex
+$$
+\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi
+$$
+~~~
 
-### Lorentz方程 
+$$
+\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi
+$$
+
+### Lorentz 方程 
 
 ~~~ latex
 $$ 
@@ -77,9 +87,9 @@ $$
 \dot{z} &= -\beta z + xy \end{aligned} 
 $$
 
-### Cauchy-Schwarz不等式 
+### Cauchy-Schwarz 不等式 
 
-~~~
+~~~ latex
 $$ 
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 $$
@@ -91,7 +101,7 @@ $$
 
 ### 某种诡异的叉乘公式
 
-~~~
+~~~ latex
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} \mathbf{i} &\mathbf{j} &\mathbf{k} \\ 
 \frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\ 
@@ -107,7 +117,7 @@ $$
 
 ### 二项概率分布(抛$$n$$次硬币出现$$k$$次头的概率)
 
-~~~
+~~~ latex
 $$ 
 P(E)   = {n \choose k} p^k (1-p)^{ n-k} 
 $$
@@ -117,9 +127,9 @@ $$
 P(E)   = {n \choose k} p^k (1-p)^{ n-k} 
 $$
 
-### Ramanujan恒等式
+### Ramanujan 恒等式
 
-~~~
+~~~ latex
 $$ 
 \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} 
 = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} 
@@ -133,9 +143,9 @@ $$
     {1+\frac{e^{-8\pi}} {1+\ldots} } } } 
 $$
 
-### Rogers-Ramanujan恒等式
+### Rogers-Ramanujan 恒等式
 
-~~~
+~~~ latex
 $$ 
 1 +  \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots =
 \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})},
@@ -149,9 +159,9 @@ $$
     \quad\quad \text{for $|q|<1$} 
 $$
 
-### Maxwell方程
+### Maxwell 方程
 
-~~~
+~~~ latex
 $$
 \begin{aligned} \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\   
 \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\ 
