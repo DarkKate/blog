@@ -4,13 +4,12 @@ title: "PAT 02-1 Reversing Linked List (25) 单链表逆序"
 date: 2015-07-21
 comments: true
 categories: 学习
-tag: 
+tag:
   - Python
   - Data Structure
+  - PAT
 ---
-02-1. Reversing Linked List (25)
-
-http://www.patest.cn/contests/mooc-ds/02-1
+[02-1. Reversing Linked List (25)][3]
 
 时间限制  400 ms  内存限制   65536 kB   代码长度限制  8000 B  判题程序  Standard  作者CHEN, Yue
 
@@ -131,3 +130,4 @@ printlist(reverse_K(head, N, K))
 
 [1]: http://blog.csdn.net/ice_camel/article/details/45156245
 [2]: http://www.cnblogs.com/kevin-lwb/p/4283456.html
+[3]: http://www.patest.cn/contests/mooc-ds/02-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%841
