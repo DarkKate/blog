@@ -33,28 +33,38 @@ For each case, output the resulting ordered linked list. Each node occupies a li
 ### Sample Input:
 
 00100 6 4
+
 00000 4 99999
+
 00100 1 12309
+
 68237 6 -1
+
 33218 3 00000
+
 99999 5 68237
+
 12309 2 33218
 
 ### Sample Output:
 
 00000 4 33218
+
 33218 3 12309
+
 12309 2 00100
+
 00100 1 99999
+
 99999 5 68237
+
 68237 6 -1
 
 ---
 
-刚学Python，折腾了好久，输入输出是我自己写的，但是核心的逆转算法其实是抄了[这位同学][1]
+刚学Python，折腾了好久，输入输出是我自己写的，但是核心的逆转算法其实是抄的[这位同学][1]
 
 ~~~ python
-__author__ = 'LiChang'
 class LNode:
 	'''
 	定义了Node，实际上我是用了一个元素为100000个的线性表，每个元素里存两个值：data, next
