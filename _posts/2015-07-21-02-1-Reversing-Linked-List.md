@@ -62,7 +62,8 @@ For each case, output the resulting ordered linked list. Each node occupies a li
 
 ---
 
-刚学Python，折腾了好久，输入输出是我自己写的，但是核心的逆转算法其实是抄的[这位同学][1]
+刚学Python，折腾了好久，输入输出是我自己写的，但是核心的逆转算法其实是抄的[ice_camel 同学][1]，
+判定结果只有21分，测试点0-4结果正确，测试点5和6没有得分。根据[kevin-ye 的这篇解题报告][2]应该是我没有考虑异常情况，没耐心了，不想改了，代码如下：
 
 ~~~ python
 class LNode:
@@ -129,3 +130,4 @@ printlist(reverse_K(head, N, K))
 ~~~
 
 [1]: http://blog.csdn.net/ice_camel/article/details/45156245
+[2]: http://www.cnblogs.com/kevin-lwb/p/4283456.html
