@@ -9,7 +9,7 @@ tag:
   - Data Structure
   - PAT
 ---
-[02-线性结构2. 一元多项式求导 (25)][2]
+## [02-线性结构2. 一元多项式求导 (25)][2]
 
 设计函数求一元多项式的导数。（注：$$x^n$$（n为整数）的一阶导数为$$n*x^{n-1}$$。）
 
@@ -70,4 +70,4 @@ else:# 空数组，输出'0 0'
 
 
 [1]: http://mengchengjiang.github.io/2015/01/21/PAT-homework/#PAT02-2_一元多项式求导
-[2]:http://www.patest.cn/contests/mooc-ds/02-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%842
+[2]: http://www.patest.cn/contests/mooc-ds/02-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%842

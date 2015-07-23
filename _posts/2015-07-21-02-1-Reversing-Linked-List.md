@@ -9,7 +9,7 @@ tag:
   - Data Structure
   - PAT
 ---
-[02-1. Reversing Linked List (25)][3]
+## [02-1. Reversing Linked List (25)][3]
 
 时间限制  400 ms  内存限制   65536 kB   代码长度限制  8000 B  判题程序  Standard  作者CHEN, Yue
 
