@@ -39,6 +39,7 @@ For each case, output the resulting ordered linked list. Each node occupies a li
 33218 3 00000
 99999 5 68237
 12309 2 33218
+~~~
 
 ### Sample Output:
 
