@@ -12,13 +12,13 @@ tag:
 
 先上一张去年今日的照片镇场。特别感谢鑫哥一路上的摄影。
 
-![](\assets\images\2015-6-28\DSC_0349.JPG)
+![](\assets\images\2015-06-28\DSC_0349.JPG)
 
-![](\assets\images\2015-6-28\DSC_0449.JPG)
+![](\assets\images\2015-06-28\DSC_0449.JPG)
 
-![](\assets\images\2015-6-28\DSC_0512.JPG)
+![](\assets\images\2015-06-28\DSC_0512.JPG)
 
-![](\assets\images\2015-6-28\DSC_0561.JPG)
+![](\assets\images\2015-06-28\DSC_0561.JPG)
 
 主要还是想以时间为线索来写，中间穿插一些经验。
 
