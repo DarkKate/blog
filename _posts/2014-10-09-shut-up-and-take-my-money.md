@@ -7,4 +7,4 @@ categories: lifestyle
 tag: 
   - 购物
 ---
-![pic](/assets/images/Shut-up-and-take-my-money.jpg)
+![pic](/assets/images/2014-10-09/Shut-up-and-take-my-money.jpg)
