@@ -7,7 +7,7 @@ layout: page
 ### 基本
 - 上海
 - 研究生在读
-- [SIMIT](http://www.sim.cas.cn/) | [Shanghaitech](http://www.shanghaitech.edu.cn/)
+- [SIMIT](http://www.sim.cas.cn/) & [Shanghaitech](http://www.shanghaitech.edu.cn/)
 
 ### 喜好
 - 喜欢了解新事物，但缺点是浅尝辄止
