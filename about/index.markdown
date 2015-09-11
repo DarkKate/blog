@@ -20,7 +20,7 @@ layout: page
 
 建立这个博客的动机源于单纯地觉得很（zhuang）酷（bi）。这也导致此博客的内容没有明确的主题。
 
-博客系统的选择历经了'Wordpress' -> 'Octopress' -> 'Jekyll'。
+博客系统的选择历经了`Wordpress` -> `Octopress` -> `Jekyll`。
 
 寄居的平台也由*新浪云*到*某被遗忘的免费空间*最终变为了**Github**
 
