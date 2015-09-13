@@ -27,12 +27,13 @@ ol, ul {
   list-style-position: outside;}
 
 li {
-  padding: .2em 0; }
-ol {
-  padding-left: 2em}
+  margin: .2em 0; }
+
+/*ol {
+  margin-left: 1.5em}*/
 
 ul {
-  padding: .2em 1em}
+  margin: .2em 1em}
 
 hr {
   -moz-box-sizing: content-box;
