@@ -101,6 +101,7 @@ tags:
 还不够烦。其实前面列举的那些软件我还远远没处理完呢，还有兼容性问题：Fences 2 安装之后桌面的图标无法移动了
 
 ## D+6
+
 ###无力吐槽的 Octopress
 
 想在 Windows 下用 Octopress，你得先安装 Git, Ruby, DevKit 还有 Python.虽然我仅看了《版本控制之道——Git》的第一章，对 Ruby, Python 一无所知。这些我都忍了，设置环境变量什么的我也忍了，`easy_install pygments`的时候系统说没这个命令，我也忍了，Google 搞定。UTF-8 什么的网上文章也很多，也忍了。不过我还是对 Octopress 的工作方式不太理解，最终还是不知道怎么把我本地和 Github 上的两个完全相同的仓库关联起来。
