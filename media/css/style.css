@@ -24,10 +24,12 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 ol, ul {
-  list-style-position: outside; }
+  list-style-position: outside;}
 
 li {
   padding: .2em 0; }
+ol {
+  padding-left: 2em}
 
 ul {
   padding: .2em 1em}
