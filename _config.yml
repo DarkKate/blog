@@ -4,7 +4,7 @@ markdown: kramdown
 name: "荒芜之地"
 
 author: "darkkate"
-atom-baseurl: ""
+atom-baseurl: "darkkate.com"
 
 navigations:
   - title: Archive
