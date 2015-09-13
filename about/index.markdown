@@ -8,7 +8,7 @@ layout: page
 
 - 男
 - 上海
-- 研究生在读 at [SIMIT](http://www.sim.cas.cn/) & [Shanghaitech](http://www.shanghaitech.edu.cn/)
+- 研究生在读 at [SIMIT](http://www.sim.cas.cn/) & [ShanghaiTech](http://www.shanghaitech.edu.cn/)
 
 ### 喜好
 
