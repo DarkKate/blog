@@ -24,10 +24,10 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 ol, ul {
-  list-style-position: inside; }
+  list-style-position: outside; }
 
 li {
-  padding: .2em 0; }
+  padding: .2em 2em; }
 
 hr {
   -moz-box-sizing: content-box;
@@ -163,7 +163,7 @@ article {
   article .post img {
     max-width: 100%;
     display: block;
-    margin: .5em auto; }
+    margin: .5em .3em; }
   article .comment {
     margin: 3em 0; }
   article .divider {
