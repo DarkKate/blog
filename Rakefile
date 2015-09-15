@@ -26,8 +26,8 @@ task :server => [:clean] do
   `jekyll serve -t`
 end
 
-desc 'Deploy with rake "depoly[comment]"'
-task :deploy, [:comment] => :generate do |t, args|
+desc 'Deploy with rake "deploy[comment]"'
+task :deploy, [:comment] do |t, args|
   if args.comment then
     `git commit . -m '#{args.comment}' && git push`
   else
@@ -48,22 +48,22 @@ def new_post(title)
     puts "Post already exists: #{filename}"
     return
   end
-  uuid = `uuidgen | tr "[:upper:]" "[:lower:]" | tr -d "\n"`
+  #uuid = `uuidgen | tr "[:upper:]" "[:lower:]" | tr -d "\n"`
   File.open(filename, "wb") do |f|
-    f << <<-EOS
----
-title: #{title}
-layout: post
-date: #{date}
-comments: true
-published: true
-categories: 
-tags:
-  - 
----
+  f << <<-EOS
+  ---
+  title: #{title}
+  layout: post
+  date: #{date}
+  comments: true
+  published: true
+  categories: 
+  tags:
+    - 
+  ---
 
 
-EOS
+  EOS
   %x[echo "#{filename}" | pbcopy]
   end
   puts "created #{filename}"
