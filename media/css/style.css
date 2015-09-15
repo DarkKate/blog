@@ -57,7 +57,7 @@ a, header #header h1 a, article .title a, article .meta .tags a, article .divide
 blockquote, pre code {
   background-color: #f8f8f8;
   padding: 0 1em;
-  margin: 1.5em 0
+  margin: 1.5em 0;
   border: 1px dashed #eee !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
@@ -266,7 +266,7 @@ source: http://programus.github.io/blog/2012/03/07/add-table-data-css-for-octopr
   border-width:1px;
   border-color:#e7e3e7;
   border-collapse:collapse; /*my change*/
-  margin: 1.5em, 0
+  margin: 1.5em 0;
 }
 
 * + table th, * + table td {
