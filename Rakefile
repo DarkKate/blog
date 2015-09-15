@@ -29,9 +29,9 @@ end
 desc 'Deploy with rake "deploy[comment]"'
 task :deploy, [:comment] do |t, args|
   if args.comment then
-    `git commit . -m '#{args.comment}' && git push`
+    `git commit . -m "#{args.comment}" && git push`
   else
-    `git commit . -m 'new deployment' && git push`
+    `git commit . -m "new deployment" && git push`
   end
 end
 
