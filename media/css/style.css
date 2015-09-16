@@ -54,7 +54,18 @@ a, header #header h1 a, article .title a, article .meta .tags a, article .divide
   a:hover, header #header h1 a:hover, article .title a:hover, article .meta .tags a:hover, article .divider a:hover {
     color: #dd1144; }
 
-blockquote, pre code {
+blockquote {
+  background-color: #f8f8f8;
+  padding: 0 1em;
+  margin: 1.5em 2em;
+  border-left: 1px solid #eee !important;
+  border-color: #e0e0e0 !important;
+  font-size: 13px;
+  line-height: 1.6;
+  display: block;
+  overflow: auto; }
+
+pre code {
   background-color: #f8f8f8;
   padding: 0 1em;
   margin: 1.5em 0;
