@@ -12,6 +12,7 @@ tags:
 
 
 > 自建 VPN 可参考前文[自己动手，科学上网](http://darkkate.com/2015/05/31/VPN-DIY/)
+
 ---
 
 ## 姿势二：自建 Shadowsocks
@@ -21,7 +22,9 @@ tags:
 在搬瓦工上安装 Shadowsocks 真是无比简单。
 
 这两篇文章写得不错：
+
 1. [在 VPS 里安装 Shadowsocks](http://www.jjhr.net/2015/03/built-a-key-move-bricklayer-bandwagon-installation-shadowsocks/)
+
 2. [使用 Shadowsocks 科学上网](http://www.jjhr.net/2014/12/shadowsocks-client-over-the-wall-to-use-a-small-mind/)
 
 这里补充几点：
