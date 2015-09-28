@@ -1,0 +1,40 @@
+  ---
+  title: "自己动手，科学上网 2"
+  layout: post
+  date: 2015-09-28
+  comments: true
+  published: true
+  categories: 
+  tags:
+    - Shadowsocks
+    - 科学上网
+  ---
+
+> 自建 VPN 可参考前文[自己动手，科学上网](http://darkkate.com/2015/05/31/VPN-DIY/)
+---
+
+## 姿势二：自建 Shadowsocks
+
+8月份搬到新环境了，我不清楚什么原因，在所里的网络下我连接 VPN 无法成功，让我很烦。感谢余鹏飞师兄今天告诉他一直用 Shadowsocks，可以在所里无压力科学上网。一语点醒梦中人啊，突然觉得一个月以来用自由门的日子真蠢。立即动手，5 分钟就搞定了。
+
+在搬瓦工上安装 Shadowsocks 真是无比简单。
+
+这两篇文章写得不错：
+1. [在 VPS 里安装 Shadowsocks](http://www.jjhr.net/2015/03/built-a-key-move-bricklayer-bandwagon-installation-shadowsocks/)
+2. [使用 Shadowsocks 科学上网](http://www.jjhr.net/2014/12/shadowsocks-client-over-the-wall-to-use-a-small-mind/)
+
+这里补充几点：
+
+1. 上面的第一篇文章里的重装系统什么的不是必须的，如果已经是 CentOS 6 那么直接点 Shadowsocks Server 一键安装 Shadowsocks 就完成了。
+2. 其实安装完成之后页面上写得 What's Next? 也写得很基础而简单，可以先看，看完了可以再看上面的第二篇。
+
+---
+
+ps. 刚刚发现下面这些廉价套餐居然都卖完了 w(ﾟДﾟ)w
+
+> [搬瓦工，年付$3.99刀，64MB内存，1.5 GB HDD硬盘，每月流量100GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=19)
+> [搬瓦工，年付$4.99刀，96MB内存，2.0 GB HDD硬盘，每月流量200GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=20)
+> [搬瓦工，年付$5.99刀，128MB内存，3.0 GB HDD硬盘，每月流量300GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=21)
+> [搬瓦工，年付$9.99刀，512MB内存，5.0 GB HDD硬盘，每月流量500GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=22)
+> [搬瓦工，年付$9.99刀，512MB内存，10.0 GB HDD硬盘，每月流量1000GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=27)
+> [搬瓦工，年付$18.99刀，1024MB内存，20.0 GB HDD硬盘，每月流量2000GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=28)
