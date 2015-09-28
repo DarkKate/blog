@@ -51,16 +51,16 @@ def new_post(title)
   #uuid = `uuidgen | tr "[:upper:]" "[:lower:]" | tr -d "\n"`
   File.open(filename, "wb") do |f|
   f << <<-EOS
-  ---
-  title: #{title}
-  layout: post
-  date: #{date}
-  comments: true
-  published: true
-  categories: 
-  tags:
+---
+title: #{title}
+layout: post
+date: #{date}
+comments: true
+published: true
+categories: 
+tags:
     - 
-  ---
+---
 
 
   EOS

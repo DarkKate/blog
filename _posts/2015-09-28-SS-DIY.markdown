@@ -1,14 +1,15 @@
-  ---
-  title: "自己动手，科学上网 2"
-  layout: post
-  date: 2015-09-28
-  comments: true
-  published: true
-  categories: 
-  tags:
+---
+title: "自己动手，科学上网 2"
+layout: post
+date: 2015-09-28
+comments: true
+published: true
+categories: 
+tags:
     - Shadowsocks
     - 科学上网
-  ---
+---
+
 
 > 自建 VPN 可参考前文[自己动手，科学上网](http://darkkate.com/2015/05/31/VPN-DIY/)
 ---
@@ -33,8 +34,13 @@
 ps. 刚刚发现下面这些廉价套餐居然都卖完了 w(ﾟДﾟ)w
 
 > [搬瓦工，年付$3.99刀，64MB内存，1.5 GB HDD硬盘，每月流量100GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=19)
+> 
 > [搬瓦工，年付$4.99刀，96MB内存，2.0 GB HDD硬盘，每月流量200GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=20)
+> 
 > [搬瓦工，年付$5.99刀，128MB内存，3.0 GB HDD硬盘，每月流量300GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=21)
+> 
 > [搬瓦工，年付$9.99刀，512MB内存，5.0 GB HDD硬盘，每月流量500GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=22)
+> 
 > [搬瓦工，年付$9.99刀，512MB内存，10.0 GB HDD硬盘，每月流量1000GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=27)
+> 
 > [搬瓦工，年付$18.99刀，1024MB内存，20.0 GB HDD硬盘，每月流量2000GB 直达链接](https://bandwagonhost.com/aff.php?aff=991&pid=28)
