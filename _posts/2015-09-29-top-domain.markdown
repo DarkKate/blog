@@ -23,19 +23,19 @@ tags:
 所以把最难抉择的几个都买了。
 
 - [3idiots.top](http://3idiots.top)[^1]
-- [jonsnow.top](http://jonsnow.top)[^1]
-- [sakuragi.top](http://sakuragi.top)[^1]
-- [fatestay.top](http://fatestay.top)[^1]
-- [insideout.top](http://insideout.top)[^1]
+- [jonsnow.top](http://jonsnow.top)[^2]
+- [sakuragi.top](http://sakuragi.top)[^3]
+- [fatestay.top](http://fatestay.top)[^4]
+- [insideout.top](http://insideout.top)[^5]
 
 已经为前三个做了简单的页面。
 
 有点想把 insideout.top 以后作为博客的域名。
 
-
+---
 
  [^1]: 想法来自电影 [3 Idiots](http://movie.douban.com/subject/3793023/)
- [^1]: Jon Snow
- [^1]: 桜木花道
- [^1]: 来自 [Fate/Stay nitht](https://zh.wikipedia.org/wiki/Fate/stay_night)
- [^1]: 来自 电影 [Inside Out](http://movie.douban.com/subject/10533913/)
+ [^2]: Jon Snow
+ [^3]: 桜木花道
+ [^4]: 来自 [Fate/Stay nitht](https://zh.wikipedia.org/wiki/Fate/stay_night)
+ [^5]: 来自 电影 [Inside Out](http://movie.douban.com/subject/10533913/)
