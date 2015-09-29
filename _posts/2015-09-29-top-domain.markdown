@@ -10,7 +10,7 @@ tags:
     - 购物
 ---
 
-昨天看到枢哥买了 [kagami.top](http://kagami.top) 域名。而且第一年只要6元，续费39元。
+昨天看到枢哥买了 [kagami.top](http://kagami.top) 域名。而且第一年只要6元，续费39元。域名商：[西部数码](http://www.west.cn)
 
 果断心动了。
 
