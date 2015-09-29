@@ -10,7 +10,7 @@ tags:
     - 购物
 ---
 
-昨天看到枢哥买了 [kagami.top](http://kagami.top) 域名。而且第一年只有6元，续费39元。
+昨天看到枢哥买了 [kagami.top](http://kagami.top) 域名。而且第一年只要6元，续费39元。
 
 果断心动了。
 
@@ -34,8 +34,8 @@ tags:
 
 ---
 
- [^1]: 想法来自电影 [3 Idiots](http://movie.douban.com/subject/3793023/)
- [^2]: Jon Snow
- [^3]: 桜木花道
+ [^1]: 非常喜欢电影 [3 Idiots](http://movie.douban.com/subject/3793023/)
+ [^2]: You know nothing, Jon Snow.
+ [^3]: 太喜欢 Slam Dunk 了，太喜欢桜木花道了。
  [^4]: 来自 [Fate/Stay nitht](https://zh.wikipedia.org/wiki/Fate/stay_night)
- [^5]: 来自 电影 [Inside Out](http://movie.douban.com/subject/10533913/)
+ [^5]: 虽然还没看，但是很期待电影 [Inside Out](http://movie.douban.com/subject/10533913/)。很喜欢这个名字。准备看 IMAX 的。
