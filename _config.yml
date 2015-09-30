@@ -16,6 +16,9 @@ navigations:
   - title: Tags
     class: fa fa-tags
     href: /tags
+  - title: Links
+    class: fa fa-link
+    href: /links
   - title: About
     class: fa fa-user
     href: /about
