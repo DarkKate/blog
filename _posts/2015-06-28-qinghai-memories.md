@@ -10,7 +10,7 @@ tag:
 
 翻了一下手机里一年前的照片。才惊觉今天[^1]是距我和[刘雄](http://sobear.me)到达西海镇一周年的日子。时间过得好快。环青海湖这段难忘的经历我是一定会有所记录的。（但是已经就要拖一整年了==）这几天忙于期末的报告与论文，这阵忙完我一定要把回忆写下来。
 
-<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=9&center=36.7599%2C100.3498&key=AIzaSyDisDs5_JsozIIocMK8T22Xng-G3MmyAvA" allowfullscreen></iframe>
+<iframe src="http://www.google.cn/maps/embed?pb=!1m42!1m12!1m3!1d408254.1925448249!2d99.96291761972664!3d36.92655500192165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0x364d5d5cea70cdfb%3A0xc3aff13a7d394eff!2z5rW35YyX6JeP5pePIOiHquayu-W3ng!3m2!1d36.954412999999995!2d100.900998!4m3!3m2!1d36.564440499999996!2d100.5396557!4m5!1s0x37ad84ce1b21556f%3A0xfb5621cf7ea4a3e8!2z6buR6ams5rKz5Lmh!3m2!1d36.729137!2d99.779524!4m3!3m2!1d37.0369594!2d99.744946!4m5!1s0x364d5cb1c9e60669%3A0x4d7557eefa77e26a!2z6KW_5rW36ZWH!3m2!1d36.957868999999995!2d100.902974!5e0!3m2!1szh-CN!2scn!4v1444974303699" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 先上一张去年今日的照片镇场。特别感谢鑫哥一路上的摄影。
 
