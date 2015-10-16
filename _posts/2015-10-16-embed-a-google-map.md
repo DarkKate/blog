@@ -34,7 +34,7 @@ tag:
 
 <del>在这里需要特别指出的就是：以我这个网站为例，我这个是搭在 Github Pages 上的博客，虽然域名是 darkkate.com 但是把作用域写为`darkkate.com/*`是无法在使用的，正确填法是`username.github.io/*`</del>
 
-下午填`username.github.io/*`有效，晚上填`*.darkkate.com/*`才有效，我搞不懂了。
+下午填`username.github.io/*`有效，晚上填`*.darkkate.com/*`才有效，过一会儿有变成填`*.darkkate.com/*`才有效，我搞不懂了。
 
 而且其实第一种可以实现 Google Maps Embed API 的大部分功能（没仔细看，不确定是不是全部），所以感觉基本没有必要为了使用 Embed API 去搞一个 Key.
 
