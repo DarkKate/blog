@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qinghai Memories"
+title: "环青海湖的记忆碎片"
 date: 2015-06-28
 comments: true
 categories: lifestyle
@@ -9,6 +9,8 @@ tag:
 ---
 
 翻了一下手机里一年前的照片。才惊觉今天[^1]是距我和[刘雄](http://sobear.me)到达西海镇一周年的日子。时间过得好快。环青海湖这段难忘的经历我是一定会有所记录的。（但是已经就要拖一整年了==）这几天忙于期末的报告与论文，这阵忙完我一定要把回忆写下来。
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=9&center=36.7599%2C100.3498&key=AIzaSyDisDs5_JsozIIocMK8T22Xng-G3MmyAvA" allowfullscreen></iframe>
 
 先上一张去年今日的照片镇场。特别感谢鑫哥一路上的摄影。
 

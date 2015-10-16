@@ -8,6 +8,9 @@ layout: page
 
 - 男
 - 上海
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMzz1sUBwsjURoWTDI5QSlQI&key=AIzaSyDisDs5_JsozIIocMK8T22Xng-G3MmyAvA" allowfullscreen></iframe>
+
 - 研究生在读 at [SIMIT](http://www.sim.cas.cn/) & [ShanghaiTech](http://www.shanghaitech.edu.cn/)
 
 ### 喜好
