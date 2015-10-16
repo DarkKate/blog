@@ -30,7 +30,11 @@ tag:
 
 功能最基本，简单好用的就是第一种了。
 
-第二种中比较麻烦的地方在于使用 API 需要申请一个 Key，不过嵌入地图的类型很丰富。而且为了防止 Key 被其他人使用，可以授权一个作用域`*.example.com/*`来作出限制，如果不填的话，就是任何其他人、其他网站都可以使用这个 Key 来调用 Google Maps API 了。在这里需要特别指出的就是：以我这个网站为例，我这个是搭在 Github Pages 上的博客，虽然域名是 darkkate.com 但是把作用域写为`darkkate.com/*`是无法在使用的，正确填法是`username.github.io/*`
+第二种中比较麻烦的地方在于使用 API 需要申请一个 Key，不过嵌入地图的类型很丰富。而且为了防止 Key 被其他人使用，可以授权一个作用域`*.example.com/*`来作出限制，如果不填的话，就是任何其他人、其他网站都可以使用这个 Key 来调用 Google Maps API 了。
+
+<del>在这里需要特别指出的就是：以我这个网站为例，我这个是搭在 Github Pages 上的博客，虽然域名是 darkkate.com 但是把作用域写为`darkkate.com/*`是无法在使用的，正确填法是`username.github.io/*`</del>
+
+下午填`username.github.io/*`有效，晚上填`*.darkkate.com/*`才有效，我搞不懂了。
 
 而且其实第一种可以实现 Google Maps Embed API 的大部分功能（没仔细看，不确定是不是全部），所以感觉基本没有必要为了使用 Embed API 去搞一个 Key.
 
