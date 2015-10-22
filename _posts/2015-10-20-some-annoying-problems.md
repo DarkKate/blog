@@ -15,17 +15,18 @@ tag:
 
 ### 很难找的：
 
-QQ: QQ 互联 http://connect.qq.com/
-微博： 我的应用 http://app.weibo.com/my
+- <i class="fa fa-qq"></i> [QQ 互联](http://connect.qq.com/)
+- <i class="fa fa-weibo"></i> [微博-我的应用](http://app.weibo.com/my)
 
 ### 不难找的：
 
-豆瓣：http://www.douban.com/accounts/apptokens
-Google: https://myaccount.google.com/security#connectedapps
-tumblr: https://www.tumblr.com/settings/apps
-twitter: https://twitter.com/settings/applications
-Facebook: https://www.facebook.com/settings?tab=applications
+- [豆瓣](http://www.douban.com/accounts/apptokens)
+- <i class="fa fa-google"></i> [Google](https://myaccount.google.com/security#connectedapps)
+- <i class="fa fa-tumblr"></i> [tumblr](https://www.tumblr.com/settings/apps)
+- <i class="fa fa-twitter"></i> [twitter](https://twitter.com/settings/applications)
+- <i class="fa fa-facebook"></i> [Facebook](https://www.facebook.com/settings?tab=applications)
 
+---
 
 ## utorrent
 
@@ -39,6 +40,8 @@ Facebook: https://www.facebook.com/settings?tab=applications
 2. 在**设置-连接**里去掉**添加系统防火墙例外**的勾
 
 来源：[北邮人论坛的一个帖子](http://bbs.byr.cn/#!article/BTbt/61592)
+
+---
 
 ## Win10：音量突然变大
 
