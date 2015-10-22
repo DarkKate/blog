@@ -22,7 +22,7 @@ tag:
 
 - [豆瓣](http://www.douban.com/accounts/apptokens)
 - <i class="fa fa-google"></i> [Google](https://myaccount.google.com/security#connectedapps)
-- <i class="fa fa-tumblr"></i> [tumblr](https://www.tumblr.com/settings/apps)
+- <i class="fa fa-tumblr"></i> [Tumblr](https://www.tumblr.com/settings/apps)
 - <i class="fa fa-twitter"></i> [twitter](https://twitter.com/settings/applications)
 - <i class="fa fa-facebook"></i> [Facebook](https://www.facebook.com/settings?tab=applications)
 
