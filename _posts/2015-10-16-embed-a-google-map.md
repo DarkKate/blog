@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Embed a google map"
+title: "嵌入一张 Google 地图"
 date: 2015-10-16
 comments: true
 published: true
@@ -9,7 +9,7 @@ tag:
   - Google Maps
 ---
 
-## 三种途径：
+嵌入一张 Google 地图有三种途径：
 
 - 在 Google Maps 的页面里“分享或嵌入地图”——[相应的帮助文档点这里](https://support.google.com/maps/answer/3544418?hl=zh-Hans)；
 
