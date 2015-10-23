@@ -5,6 +5,7 @@ date: 2015-05-05
 comments: true
 categories: 学习
 tag: 
+  - 备忘
   - LaTeX
 ---
 

@@ -5,6 +5,7 @@ date: 2015-10-22
 comments: true
 categories: 折腾
 tag: 
+  - 备忘
   - account
   - utorrent
   - Win10
