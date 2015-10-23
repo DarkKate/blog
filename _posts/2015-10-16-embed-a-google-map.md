@@ -9,6 +9,8 @@ tag:
   - Google Maps
 ---
 
+<embed src="http://www.xiami.com/widget/0_63609/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+
 嵌入一张 Google 地图有三种途径：
 
 - 在 Google Maps 的页面里“分享或嵌入地图”——[相应的帮助文档点这里](https://support.google.com/maps/answer/3544418?hl=zh-Hans)；
