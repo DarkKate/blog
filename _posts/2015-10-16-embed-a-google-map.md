@@ -9,7 +9,7 @@ tag:
   - Google Maps
 ---
 
-<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=0&sid=63609&mode=js"></script>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=167804&auto=1&height=66"></iframe>
 
 嵌入一张 Google 地图有三种途径：
 
