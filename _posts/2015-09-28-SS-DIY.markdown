@@ -26,6 +26,7 @@ tags:
 1. [在 VPS 里安装 Shadowsocks](http://www.jjhr.net/2015/03/built-a-key-move-bricklayer-bandwagon-installation-shadowsocks/)
 
 2. [使用 Shadowsocks 科学上网](http://www.jjhr.net/2014/12/shadowsocks-client-over-the-wall-to-use-a-small-mind/)
+3. [板瓦工一键安装Shadowsocks教程【极其简单】](http://www.fanyue.info/2015/02/shadowsocks.html)
 
 这里补充几点：
 
