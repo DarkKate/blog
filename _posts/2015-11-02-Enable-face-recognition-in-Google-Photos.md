@@ -53,13 +53,21 @@ Google Photos 只在美国提供人脸分组的功能。使用其他地区的 IP
 
 ## References
 
-下面这篇文章以及下面的**评论**提供了非常有用的信息——[HowTo: Enable face recognition in the new Google Photos][4]
+1. 下面这篇文章以及下面的**评论**提供了非常有用的信息——[HowTo: Enable face recognition in the new Google Photos][4]
 
 >**VentraIP Australia:**
 >From my understanding with iOS you need to physically log out of all your Google accounts BEFORE deleting Photos, reinstall, activation VPN (eg: Tunnelbear) and then reinitialise Photos and login again.
 >Apparently it doesn't work unless you log out of all your Google accounts first (since Google does the shared logins on all iOS apps).
 
+2. [不认识的网友 Macadamianuts][5]在我的[吐槽微博][6]下的热心回复：
+
+> 卸载app， 挂梯子， 手机设置里地区和语言都调成美国，安装app，在设置中开启人脸识别，再把语言和地区调回来。
+
+（实际上语言和地区没有影响）。
+
 [1]: http://googlephotos.blogspot.com/
 [2]: https://sites.google.com/site/picasaresources/top-contributors
 [3]: http://picasa.google.com/
 [4]: http://ausdroid.net/howto/howto-enable-face-recognition-in-the-new-google-photos/
+[5]: http://weibo.com/u/5631999767
+[6]: http://weibo.com/1772939994/D14JLbtuC?from=page_1005051772939994_profile&wvr=6&mod=weibotime&type=comment
