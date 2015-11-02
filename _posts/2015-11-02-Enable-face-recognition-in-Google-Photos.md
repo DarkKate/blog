@@ -44,6 +44,8 @@ Google Photos 只在美国提供人脸分组的功能。使用其他地区的 IP
 
 ![](\assets\images\2015\11\02\people.png)
 
+---
+
 ## 我走的那些弯路
 
 - **VPN**: 这个是最最关键的！使用 **TunnelBear**可以保证成功，App Store 里直接搜就有。连接到美国。我自己搭的 VPN、Shadowsocks 都没成功，明明是洛杉矶的 VPS，搞不懂。还试过 iqlink 也没用。其他的 VPN 没试过。
@@ -51,19 +53,22 @@ Google Photos 只在美国提供人脸分组的功能。使用其他地区的 IP
 - 更改**语言**、**国家和地区**：最后也证明不需要。说白了，Google Photos 只认 IP。
 - 美区的 Google Photos：**没必要**。最开始在中区下的 Google Photos， 用自己的 VPN，人脸识别出不来。还以为中区是阉割版，最后发现想多了，其实就是 VPN 的问题。
 
+---
+
 ## References
 
-1. 下面这篇文章以及下面的**评论**提供了非常有用的信息——[HowTo: Enable face recognition in the new Google Photos][4]
+- 这篇文章[HowTo: Enable face recognition in the new Google Photos][4]
+- 以及它下面的**评论**提供了非常有用的信息——
 
 >**VentraIP Australia:**
 >From my understanding with iOS you need to physically log out of all your Google accounts BEFORE deleting Photos, reinstall, activation VPN (eg: Tunnelbear) and then reinitialise Photos and login again.
 >Apparently it doesn't work unless you log out of all your Google accounts first (since Google does the shared logins on all iOS apps).
 
-2. [不认识的网友 Macadamianuts][5]在我的[吐槽微博][6]下的热心回复：
+- [不认识的网友 Macadamianuts][5]在我的[吐槽微博][6]下的热心回复：
 
 > 卸载app， 挂梯子， 手机设置里地区和语言都调成美国，安装app，在设置中开启人脸识别，再把语言和地区调回来。
 
-（实际上语言和地区没有影响）。
+（实际上语言和地区没有影响）
 
 [1]: http://googlephotos.blogspot.com/
 [2]: https://sites.google.com/site/picasaresources/top-contributors
