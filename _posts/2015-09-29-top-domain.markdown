@@ -16,7 +16,7 @@ tags:
 
 至于要注册什么域名，想了好久，想得到的里面有这些还没被注册。
 
-![](/assets/images/2015-09-29/domain-list.png)
+![](/assets/images/2015/09/29/domain-list.png)
 
 自己实在没什么创意，还有选择恐惧症。还好第一年便宜。
 
