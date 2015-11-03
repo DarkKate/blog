@@ -16,16 +16,15 @@ navigations:
   - title: Tags
     class: fa fa-tags
     href: /tags
+  - title: Instagram
+    class: fa fa-instagram
+    href: /instagram
   - title: Links
     class: fa fa-link
     href: /links
   - title: About
     class: fa fa-user
     href: /about
-  - title: Instagram
-    class: fa fa-instagram
-    href: /instagram
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
-
