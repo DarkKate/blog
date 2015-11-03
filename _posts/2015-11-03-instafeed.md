@@ -9,7 +9,7 @@ tag:
   - 备忘
 ---
 
-使用 Instafeed.js 可以轻松地在自己的网页上展示 Instagram 的照片。
+使用 Instafeed.js 可以轻松地在[自己的网页](/instagram)上展示 Instagram 的照片。
 
 相关链接：
 
