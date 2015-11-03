@@ -56,9 +56,9 @@ Google Photos 只在美国提供人脸分组的功能。使用其他地区的 IP
 ---
 
 ## References
-
-- 这篇文章[HowTo: Enable face recognition in the new Google Photos][4]
-- 以及它下面的**评论**提供了非常有用的信息——
+- [StackExchange: Google Photos Faces filter does not appear](http://webapps.stackexchange.com/questions/78621/google-photos-faces-filter-does-not-appear)
+- [HowTo: Enable face recognition in the new Google Photos][4]
+- 上文的**评论**也提供了非常有用的信息：
 
 >**VentraIP Australia:**
 >From my understanding with iOS you need to physically log out of all your Google accounts BEFORE deleting Photos, reinstall, activation VPN (eg: Tunnelbear) and then reinitialise Photos and login again.
