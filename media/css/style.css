@@ -318,6 +318,5 @@ source: http://programus.github.io/blog/2012/03/07/add-table-data-css-for-octopr
 }
 
 #instafeed img:hover {
-opacity:1;
-filter:alpha(opacity=100);
+opacity:0.7;
 }
