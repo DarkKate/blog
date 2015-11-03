@@ -8,6 +8,7 @@ layout: page
         get: 'user',
         userId: '587136819',
         clientId: 'e1734d63e7754ec284a59ceb298faa12',
+        limit:'6'
     });
     userFeed.run();
 </script>
