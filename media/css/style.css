@@ -306,3 +306,12 @@ source: http://programus.github.io/blog/2012/03/07/add-table-data-css-for-octopr
   text-align:center;
 }
 /*# sourceMappingURL=style.css.map */
+
+#instafeed a {
+  padding:5px 5px 1px 5px;
+  margin:10px;
+  border:1px solid #e1e1e1;
+  display:inline-block;
+  border-radius: 4px;
+  position:relative;
+}
