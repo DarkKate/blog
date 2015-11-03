@@ -12,5 +12,5 @@ layout: default
     });
     userFeed.run();
 </script>
-<h2>Instagram</h2>
+<h2>instagram</h2>
 <div id="instafeed"></div>
