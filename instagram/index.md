@@ -1,6 +1,6 @@
 ---
 title: instagram
-layout: page
+layout: default
 ---
 <script type="text/javascript" src="/media/js/instafeed.min.js"></script>
 <script type="text/javascript">
