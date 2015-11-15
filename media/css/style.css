@@ -317,6 +317,6 @@ source: http://programus.github.io/blog/2012/03/07/add-table-data-css-for-octopr
   position:relative;
 }
 
-#instafeed a:hover {
+#instafeed img:hover {
 opacity:0.7;
 }
