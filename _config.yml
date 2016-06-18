@@ -1,8 +1,4 @@
-highlighter: pygments
-permalink: /:year/:month/:day/:title/
-markdown: kramdown
 name: "荒芜之地"
-
 author: "darkkate"
 atom-baseurl: "http://darkkate.com"
 
@@ -28,3 +24,9 @@ navigations:
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
+
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
