@@ -16,14 +16,40 @@ tag:
 
 ## PX-80
 
+￥298？
+
 ## K77
+
+￥180
 
 ## K420
 
 ## 潜25
 
-## Earpod
+￥25
 
-## 大馒头
+## Earpods
+
+## 大馒头 Sennheiser Momentum Over ear
+
+￥925（二手，95新）
 
 ## HD598
+
+￥850（二手，95新）
+
+## Sony MDR-1A
+
+￥948
+
+## Bose QC 25
+
+￥1499
+
+## 潜39 x2
+
+￥39
+
+## Sennheiser IE80
+
+￥1244

@@ -34,6 +34,14 @@ tags:
 
 ---
 
+edit(2017.5.2): 
+
+darkkate.com 到期后把 insideout.top 作为了博客的域名。其他几个均未续费。
+
+电影[Inside Out](http://movie.douban.com/subject/10533913/)后来也看了，很棒。但没看成 IMAX 的，去了上海影城的东方巨幕（DMAX）。
+
+---
+
  [^1]: 非常喜欢电影 [3 Idiots](http://movie.douban.com/subject/3793023/)
  [^2]: You know nothing, Jon Snow.
  [^3]: 太喜欢 Slam Dunk 了，太喜欢桜木花道了。
