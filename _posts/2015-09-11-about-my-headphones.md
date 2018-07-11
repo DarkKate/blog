@@ -3,7 +3,7 @@ layout: post
 title: "关于我的耳机"
 date: 2015-09-11
 comments: true
-published: false
+published: true
 categories: lifestyle
 tag: 
   - 耳机
