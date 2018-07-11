@@ -12,49 +12,53 @@ tag:
 
 回想我与耳机的故事，怎么都绕不开张九思。
 
-## awesome 傲森 CD-100
+### awesome 傲森 CD-100
 
-## PX-80
+### PX-80
 
 ￥298？
 在睿思二手交易了，180出的？记得不是很清楚了。
 
-## K77
+### K77
 
 ￥180
 
-毕业季跳蚤市场￥？卖给某个学弟了
+毕业季跳蚤市场￥80 卖给一个学弟了
 
-## K420
+### K420
 
-## 潜25
+### 潜25
 
 ￥25
 
-## Earpods
+### Earpods
 
-## 大馒头 Sennheiser Momentum Over ear
+### 大馒头 Sennheiser Momentum Over ear
 
 什么值得买评论区
 ￥925（二手，95新）
 
-## HD598
+### HD598
 
 什么值得买评论区
 ￥850（二手，95新）
 
-## Sony MDR-1A
+### Sony MDR-1A
 
 ￥948
 
-## Bose QC 25
+### Bose QC 25
 
 ￥1499
 
-## 潜39 x2
+### 潜39 x3
 
 ￥39
 
-## Sennheiser IE80
+### Sennheiser IE80
 
 ￥1244
+
+### Airpods
+
+￥849
