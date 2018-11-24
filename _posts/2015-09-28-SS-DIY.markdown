@@ -4,7 +4,6 @@ layout: post
 date: 2015-09-28
 published: false
 comments: true
-published: true
 categories: 
 tags:
     - Shadowsocks
